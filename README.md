@@ -1,4 +1,4 @@
-# DentScan 
+# DentScan [Project Skripsi]
 
 Aplikasi web berbasis Django untuk deteksi penyakit gigi (gingivitis, karang gigi, karies) dari gambar maupun kamera/webcam secara real-time menggunakan Ultralytics YOLO versi 11. Proyek ini juga menyediakan autentikasi pengguna dan penyimpanan riwayat deteksi per pengguna, lengkap dengan optimasi penyajian gambar hasil deteksi.
 
